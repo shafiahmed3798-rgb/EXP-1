@@ -40,37 +40,51 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
+<img width="592" height="431" alt="image" src="https://github.com/user-attachments/assets/4622a0db-7778-49ba-b6e7-8ec09fe58ec6" />
+
+<img width="491" height="426" alt="image" src="https://github.com/user-attachments/assets/f6a0842f-cf13-4224-a361-69877a1baa99" />
+
+
 CIRCUIT DIAGRAM:
 
 
 a.   KVL:
  
-
+<img width="1265" height="718" alt="image" src="https://github.com/user-attachments/assets/9a2f0d9c-c163-46c1-952c-8627aee2278b" />
 
 b.  KCL:
- 
+
+ <img width="1262" height="744" alt="image" src="https://github.com/user-attachments/assets/a7178d9f-534d-41b6-9004-8145aec97b73" />
 
 Calculation:
 
 a.   KVL:
  
+<img width="453" height="297" alt="image" src="https://github.com/user-attachments/assets/89c3aac1-fbb1-43cc-972b-1f173ed5f957" />
+
+<img width="460" height="256" alt="image" src="https://github.com/user-attachments/assets/c830dd1f-823f-4406-9b2b-16a28914d117" />
 
 
 b.  KCL:
 
+<img width="456" height="305" alt="image" src="https://github.com/user-attachments/assets/9aaa60d2-a186-4a12-bbd6-fb3a04f9ffbf" />
 
+<img width="432" height="305" alt="image" src="https://github.com/user-attachments/assets/3d08ebf8-3017-49ea-b7ba-423e8f386990" />
 
 
 Tabulation:
 
 a.   KVL:
  
-
+<img width="486" height="208" alt="image" src="https://github.com/user-attachments/assets/6c8a2c51-8c53-4776-a6eb-3f99fda816ee" />
 
 b.  KCL:
 
-
+<img width="445" height="231" alt="image" src="https://github.com/user-attachments/assets/c7e75a84-9fc7-4faf-a44b-e2427faab796" />
 
 RESULT:
+
+
+<img width="481" height="127" alt="image" src="https://github.com/user-attachments/assets/7f2e6412-4a03-439e-8a73-dfc7f74389fb" />
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
